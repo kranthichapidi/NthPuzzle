@@ -1,0 +1,20 @@
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\bin\Debug\NthPuzzle.exe.config
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\bin\Debug\NthPuzzle.exe
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\bin\Debug\NthPuzzle.pdb
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.Form1.resources
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.Properties.Resources.resources
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.csproj.GenerateResource.Cache
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.exe
+C:\Users\kchapidi3723\Documents\Visual Studio 2017\Projects\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.pdb
+G:\Project\NthPuzzle\NthPuzzle\bin\Debug\NthPuzzle.exe.config
+G:\Project\NthPuzzle\NthPuzzle\bin\Debug\NthPuzzle.exe
+G:\Project\NthPuzzle\NthPuzzle\bin\Debug\NthPuzzle.pdb
+G:\Project\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.csprojResolveAssemblyReference.cache
+G:\Project\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.Form1.resources
+G:\Project\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.Properties.Resources.resources
+G:\Project\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.csproj.GenerateResource.Cache
+G:\Project\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.csproj.CoreCompileInputs.cache
+G:\Project\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.exe
+G:\Project\NthPuzzle\NthPuzzle\obj\Debug\NthPuzzle.pdb
